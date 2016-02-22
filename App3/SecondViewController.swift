@@ -115,6 +115,7 @@ class SecondViewController: UIViewController {
         //rint(passedInput)
         
         textFieldInput.text="";
+        inputButton.enabled = false
         
 
     }
