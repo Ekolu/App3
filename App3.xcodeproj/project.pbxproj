@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B99FF0A71C776F1800E03262 /* madlib0_simple.txt in Resources */ = {isa = PBXBuildFile; fileRef = B99FF0A21C776F1800E03262 /* madlib0_simple.txt */; };
+		B99FF0A81C776F1800E03262 /* madlib1_tarzan.txt in Resources */ = {isa = PBXBuildFile; fileRef = B99FF0A31C776F1800E03262 /* madlib1_tarzan.txt */; };
+		B99FF0A91C776F1800E03262 /* madlib2_university.txt in Resources */ = {isa = PBXBuildFile; fileRef = B99FF0A41C776F1800E03262 /* madlib2_university.txt */; };
+		B99FF0AA1C776F1800E03262 /* madlib3_clothes.txt in Resources */ = {isa = PBXBuildFile; fileRef = B99FF0A51C776F1800E03262 /* madlib3_clothes.txt */; };
+		B99FF0AB1C776F1800E03262 /* madlib4_dance.txt in Resources */ = {isa = PBXBuildFile; fileRef = B99FF0A61C776F1800E03262 /* madlib4_dance.txt */; };
 		B9ECF7E91C74F38100B6A6D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9ECF7E81C74F38100B6A6D1 /* AppDelegate.swift */; };
 		B9ECF7EB1C74F38100B6A6D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9ECF7EA1C74F38100B6A6D1 /* ViewController.swift */; };
 		B9ECF7EE1C74F38100B6A6D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9ECF7EC1C74F38100B6A6D1 /* Main.storyboard */; };
@@ -14,6 +19,8 @@
 		B9ECF7F31C74F38100B6A6D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9ECF7F11C74F38100B6A6D1 /* LaunchScreen.storyboard */; };
 		B9ECF7FE1C74F38100B6A6D1 /* App3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9ECF7FD1C74F38100B6A6D1 /* App3Tests.swift */; };
 		B9ECF8091C74F38100B6A6D1 /* App3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9ECF8081C74F38100B6A6D1 /* App3UITests.swift */; };
+		B9ECF8171C74F64D00B6A6D1 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9ECF8161C74F64D00B6A6D1 /* SecondViewController.swift */; };
+		B9ECF8191C75E49F00B6A6D1 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9ECF8181C75E49F00B6A6D1 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B99FF0A21C776F1800E03262 /* madlib0_simple.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib0_simple.txt; sourceTree = "<group>"; };
+		B99FF0A31C776F1800E03262 /* madlib1_tarzan.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib1_tarzan.txt; sourceTree = "<group>"; };
+		B99FF0A41C776F1800E03262 /* madlib2_university.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib2_university.txt; sourceTree = "<group>"; };
+		B99FF0A51C776F1800E03262 /* madlib3_clothes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib3_clothes.txt; sourceTree = "<group>"; };
+		B99FF0A61C776F1800E03262 /* madlib4_dance.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib4_dance.txt; sourceTree = "<group>"; };
 		B9ECF7E51C74F38100B6A6D1 /* App3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9ECF7E81C74F38100B6A6D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9ECF7EA1C74F38100B6A6D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +59,8 @@
 		B9ECF8041C74F38100B6A6D1 /* App3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = App3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9ECF8081C74F38100B6A6D1 /* App3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App3UITests.swift; sourceTree = "<group>"; };
 		B9ECF80A1C74F38100B6A6D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9ECF8161C74F64D00B6A6D1 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B9ECF8181C75E49F00B6A6D1 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +111,15 @@
 		B9ECF7E71C74F38100B6A6D1 /* App3 */ = {
 			isa = PBXGroup;
 			children = (
+				B99FF0A21C776F1800E03262 /* madlib0_simple.txt */,
+				B99FF0A31C776F1800E03262 /* madlib1_tarzan.txt */,
+				B99FF0A41C776F1800E03262 /* madlib2_university.txt */,
+				B99FF0A51C776F1800E03262 /* madlib3_clothes.txt */,
+				B99FF0A61C776F1800E03262 /* madlib4_dance.txt */,
 				B9ECF7E81C74F38100B6A6D1 /* AppDelegate.swift */,
 				B9ECF7EA1C74F38100B6A6D1 /* ViewController.swift */,
+				B9ECF8161C74F64D00B6A6D1 /* SecondViewController.swift */,
+				B9ECF8181C75E49F00B6A6D1 /* ThirdViewController.swift */,
 				B9ECF7EC1C74F38100B6A6D1 /* Main.storyboard */,
 				B9ECF7EF1C74F38100B6A6D1 /* Assets.xcassets */,
 				B9ECF7F11C74F38100B6A6D1 /* LaunchScreen.storyboard */,
@@ -230,7 +251,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9ECF7F31C74F38100B6A6D1 /* LaunchScreen.storyboard in Resources */,
+				B99FF0AA1C776F1800E03262 /* madlib3_clothes.txt in Resources */,
+				B99FF0A81C776F1800E03262 /* madlib1_tarzan.txt in Resources */,
 				B9ECF7F01C74F38100B6A6D1 /* Assets.xcassets in Resources */,
+				B99FF0A71C776F1800E03262 /* madlib0_simple.txt in Resources */,
+				B99FF0A91C776F1800E03262 /* madlib2_university.txt in Resources */,
+				B99FF0AB1C776F1800E03262 /* madlib4_dance.txt in Resources */,
 				B9ECF7EE1C74F38100B6A6D1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,7 +282,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9ECF8171C74F64D00B6A6D1 /* SecondViewController.swift in Sources */,
 				B9ECF7EB1C74F38100B6A6D1 /* ViewController.swift in Sources */,
+				B9ECF8191C75E49F00B6A6D1 /* ThirdViewController.swift in Sources */,
 				B9ECF7E91C74F38100B6A6D1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -484,6 +512,7 @@
 				B9ECF80F1C74F38100B6A6D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B9ECF8101C74F38100B6A6D1 /* Build configuration list for PBXNativeTarget "App3Tests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +521,7 @@
 				B9ECF8121C74F38100B6A6D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B9ECF8131C74F38100B6A6D1 /* Build configuration list for PBXNativeTarget "App3UITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +530,7 @@
 				B9ECF8151C74F38100B6A6D1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
